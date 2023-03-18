@@ -11,6 +11,8 @@ The following is documentation and an overview of the systems and functionality 
     Co-Founder of ZA Entertainment
     Consultant Developer
 
+- Deputy Butts
+    Hes relly smart
 
 ### Repository Initialization
 The following note is how to setup, initialize, and download updates from the ZA Entertainment Repository.
