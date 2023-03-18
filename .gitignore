@@ -8,5 +8,5 @@ export_presets.cfg
 data_*/
 
 # System-specific ignores
-.com
-.cmd
+*.com
+*.cmd
